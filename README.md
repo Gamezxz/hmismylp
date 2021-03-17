@@ -4,8 +4,4 @@
 
 A tool to calculate your lp worth in the staking contract.
 
-http://howmuchismylp.com/
-
-# License
-
-[MIT](https://github.com/npty/lp-inspector/blob/master/LICENSE)
+http://hmismylp.web.app/
