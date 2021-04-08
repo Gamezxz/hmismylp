@@ -25,68 +25,24 @@ export const masterChefPresets = [
     address: "0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57",
   },
   {
-    name: "CafeSwap",
-    address: "0xc772955c33088a97D56d0BBf473d05267bC4feBB",
-  },
-  {
-    name: "Kebab",
-    address: "0x76FCeffFcf5325c6156cA89639b17464ea833ECd",
-  },
-  {
-    name: "Teamrocket",
-    address: "0x2b56ae44435825cebdb3cbcb15e2458345da5247",
-  },
-  {
     name: "Auto",
     address: AUTO,
-  },
-  {
-    name: "Ramen",
-    address: "0x97dd424b4628c8d3bd7fcf3a4e974cebba011651",
-  },
-  {
-    name: "KickStart",
-    address: "0x2ea36cd78f24ca535fb66e020d7963e7731dd371",
-  },
-  {
-    name: "DonutDefi",
-    address: "0x93070Bd094Abdf8815Fadd40048812Ad815A3ec0",
-  },
-  {
-    name: "RoseSwap",
-    address: "0x5059acdce47c783442a353fcd2a7d226155f0135",
-  },
-  {
-    name: "SaltSwap",
-    address: "0xB4405445fFAcF2B86BC2bD7D1C874AC739265658",
-  },
-  {
-    name: "Icecream",
-    address: "0xc26316b19117495e89c187339ddb6e86f1e39f0c",
-  },
-  {
-    name: "Viking",
-    address: "0xEf6e807fD2c0Ef5883A03Ed1b962333E8C9b725f",
-  },
-  {
-    name: "UFO",
-    address: "0x95d9a00087f0db9e72b4014017842336480a153b",
-  },
-  {
-    name: "TACO",
-    address: "0x36f44a1C8e973739D0034FF1B9B9f6c4c7085625",
   },
   {
     name: "Alpaca",
     address: "0xA625AB01B08ce023B2a342Dbb12a16f2C8489A8F",
   },
   {
-    name: "Sashimi",
-    address: "0x34E483600e9c73390C7fBB4C9985a057156a611F",
-  },
-  {
     name: "WardenSwap",
     address: "0xde866dd77b6df6772e320dc92bff0eddc626c674",
+  },
+  {
+    name: "Dopple.finance",
+    address: "0xda0a175960007b0919dbf11a38e6ec52896bddbe",
+  },
+  {
+    name: "uranium.finance",
+    address: "0xD5aAc41D315c1d382DcF1C39D4ed9B37C224edf2",
   },
 ];
 
@@ -98,13 +54,5 @@ export const routerPresets = [
   {
     name: "ApeSwap",
     address: "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607",
-  },
-  {
-    name: "Icecream",
-    address: "0x6728f3c8241c44cc741c9553ff7824ba9e932a4a",
-  },
-  {
-    name: "Sashimi",
-    address: "0x24cEFA86fC1826FD31b4cb911034907735F8085A",
   },
 ];
